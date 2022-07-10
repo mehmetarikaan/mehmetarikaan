@@ -10,7 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=mehmetarikaan&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=mehmetarikaan&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=mehmetarikaan&show_icons=true&theme=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetarikaan)](https://github.com/mehmetarikaan)
