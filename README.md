@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on programming
-- 🌱 I’m currently learning Swift, SwiftUI
+- 🌱 I’m currently programming Swift, SwiftUI
 - 🤔 I’m looking for help with iOS Development.
 - 💬 Ask me about anything.
 - 📫 How to reach me: mehmetarikaan@outlook.com
